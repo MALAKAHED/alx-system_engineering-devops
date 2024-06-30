@@ -1,4 +1,4 @@
 # ssh 
 
-### exeplanatio 
+### exeplanation
 This tasks for ssh (secure shell)
